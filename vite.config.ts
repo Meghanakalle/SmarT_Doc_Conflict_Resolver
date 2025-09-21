@@ -5,6 +5,7 @@ import { viteSourceLocator } from "@metagptx/vite-plugin-source-locator";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: "./",  // 👈 important for Netlify/any static hosting
   plugins: [
     viteSourceLocator({
       prefix: "mgx",
