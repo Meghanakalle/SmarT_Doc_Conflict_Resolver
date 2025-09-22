@@ -20,29 +20,53 @@ Tailwind CSS – Utility-first styling framework
 
 📂 File Structure
 ├── index.html                # HTML entry point
+
 ├── vite.config.ts            # Vite configuration
+
 ├── tailwind.config.js        # Tailwind CSS configuration
+
 ├── package.json              # Dependencies & scripts
+
 ├── src
+
 │   ├── app.tsx               # Root component
+
 │   ├── main.tsx              # Project entry point
+
 │   ├── index.css             # Global CSS
+
 │   ├── pages
+
 │   │   ├── Index.tsx         # Home page
+
 │   │   ├── Auth.tsx          # Login/Signup page
+
 │   │   ├── Dashboard.tsx     # Dashboard overview
+
 │   │   ├── Upload.tsx        # Document upload interface
+
 │   │   ├── Analysis.tsx      # Analysis loading screen
+
 │   │   ├── Report.tsx        # Single report details
+
 │   │   ├── Reports.tsx       # Reports history
+
 │   │   ├── Integrations.tsx  # External monitoring
+
 │   ├── components
+
 │   │   ├── Sidebar.tsx       # Sidebar navigation
+
 │   │   ├── ConflictCard.tsx  # Conflict detail display
+
 │   ├── lib
+
 │   │   ├── auth.ts           # Authentication utilities
+
 │   │   ├── storage.ts        # LocalStorage management
+
 │   ├── types
+
 │       └── index.ts          # TypeScript type definitions
 
 ✨ Core Features (MVP)
@@ -94,4 +118,5 @@ Setup Reports history page
 Add External monitoring integration (mock APIs)
 
 Track usage via Analytics
+
 
