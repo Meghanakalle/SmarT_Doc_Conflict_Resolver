@@ -19,6 +19,7 @@ Tailwind CSS – Utility-first styling framework
 ℹ️ All Smart Doc Checker Agent/ui components are pre-downloaded under @/components/ui.
 
 📂 File Structure
+
 ├── index.html                # HTML entry point
 
 ├── vite.config.ts            # Vite configuration
@@ -118,5 +119,6 @@ Setup Reports history page
 Add External monitoring integration (mock APIs)
 
 Track usage via Analytics
+
 
 
