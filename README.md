@@ -2,6 +2,8 @@
 
 An intelligent system to detect document inconsistencies, overlaps, and conflicts with a clean, professional UI. Built with modern web technologies, this MVP provides authentication, document uploads, AI-driven mock analysis, and detailed reporting.
 
+LIVE LINK - https://aquamarine-sundae-19a0cd.netlify.app/
+
 🚀 Tech Stack
 
 Vite – Fast build tool for frontend development
@@ -93,4 +95,3 @@ Add External monitoring integration (mock APIs)
 
 Track usage via Analytics
 
-LIVE LINK - https://aquamarine-sundae-19a0cd.netlify.app/
